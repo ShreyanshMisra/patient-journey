@@ -1,0 +1,9 @@
+.claude
+.env
+
+# dataset is confidential
+datasets/
+
+# notebooks confidential till after May
+analysis.ipynb
+charts
